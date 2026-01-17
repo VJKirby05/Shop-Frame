@@ -16,7 +16,7 @@ import java.awt.event.ActionListener;
 
 public class Shop extends JFrame
 {
-    final int FRAME_WIDTH = 600;
+    final int FRAME_WIDTH = 700;
     final int FRAME_HEIGHT = 500;
     
     public Shop()
